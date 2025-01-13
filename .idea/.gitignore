@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/gradle.xml
+/.idea/runConfigurations/Minecraft_Client.xml
+/.idea/runConfigurations/Minecraft_Server.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/modules/simple-macros-1.21.4.main.iml
+/.idea/modules/simple-macros-1.21.4.test.iml
+/.idea/vcs.xml
+/.idea/compiler.xml
+/.idea/runConfigurations/Data_Generation.xml
+/compiler.xml
+/runConfigurations/Data_Generation.xml
+/gradle.xml
+/runConfigurations/Minecraft_Client.xml
+/runConfigurations/Minecraft_Server.xml
+/misc.xml
+/modules.xml
+/modules/simple-macros-1.21.4.main.iml
+/modules/simple-macros-1.21.4.test.iml
+/vcs.xml
